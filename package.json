@@ -73,7 +73,7 @@
     "kurento-client-elements": "6.16.0",
     "kurento-client-filters": "6.16.0",
     "kurento-jsonrpc": "6.16.0",
-    "promisecallback": "0.0.4",
+    "promisecallback": "git+https://github.com/Haris345/promisecallback",
     "reconnect-ws": "KurentoForks/reconnect-ws#master",
     "minimist": "^1.2.0"
   },
